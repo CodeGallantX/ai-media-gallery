@@ -1,0 +1,22 @@
+body {
+            font-family: 'Sora', sans-serif;
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            min-height: 100vh;
+        }
+        
+        .card-hover {
+            transition: all 0.3s ease;
+        }
+        
+        .card-hover:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);
+        }
+        
+        .media-container {
+            transition: transform 0.5s ease;
+        }
+        
+        .card-hover:hover .media-container {
+            transform: scale(1.05);
+        }
