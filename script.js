@@ -1,14 +1,14 @@
 // Sample data for the gallery
         const galleryData = [
             {
-                title: "Neural Landscape",
-                description: "A breathtaking landscape generated entirely by AI, featuring surreal elements and vibrant colors.",
-                creator: "Alex Johnson",
-                creatorTitle: "AI Artist",
-                creatorImg: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&q=80",
-                mediaType: "image",
-                mediaUrl: "https://images.unsplash.com/photo-1670272505340-d906d8d77d03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-                aiTools: ["Midjourney", "Krea", "Photoshop AI"]
+                title: "Fullstack Developer Porfolio",
+                description: "Full-Stack Developer crafting digital experiences through clean code and thoughtful design",
+                creator: "Blessing ",
+                creatorTitle: "Developer",
+                // creatorImg: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=100&q=80",
+                mediaType: "website",
+                mediaUrl: "https://hongshin-showcase.lovable.app/",
+                aiTools: ["Lovable"]
             },
             {
                 title: "Future City Timelapse",
